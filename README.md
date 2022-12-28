@@ -12,4 +12,6 @@ Once the training is complete, you would use the test set to evaluate the perfor
 Overall, the goal of this project is to build an ANN that can accurately recognize and classify handwritten digits from the CIFAR-10 dataset.
 
 
+Link to the deployed project:- https://akashthakur4553.github.io/Handwritten-digit-classification/
+
 
